@@ -19,14 +19,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 
 ---
 
-###### 1. Ile obecnie ma lat Internet (licząc od daty początkowej do roku 2023)?
+##### 1. Ile obecnie ma lat Internet (licząc od daty początkowej do roku 2023)?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Początkowa data Internetu dostępnego dla obywateli?
-#### Ile współcześnie mamy użytkowników Internetu na świecie?
+##### Początkowa data Internetu dostępnego dla obywateli?
+##### Ile współcześnie mamy użytkowników Internetu na świecie?
 
 
 </p>
@@ -35,16 +35,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 2. Opisz 2 wybrane modele pierwszych komputerów na świecie.
+
+##### 2. Opisz 2 wybrane modele pierwszych komputerów na świecie.
 
 
 <details><summary><b>Przykładowe modele komputerów do wyboru:</b></summary>
 <p>
 
-#### Z1 Konrada Zuse z 1938 roku;
-#### Komputer Atanasoffa-Berry'ego (ABC) z 1942 roku;
-#### IBM PC z 1981 roku.
+##### Z1 Konrada Zuse z 1938 roku;
+##### Komputer Atanasoffa-Berry'ego (ABC) z 1942 roku;
+##### IBM PC z 1981 roku.
 
 
 </p>
@@ -53,14 +53,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 3. Omów koncepcję "światowego systemu bezprzewodowego" Nikoli Tesli.
 
+##### 3. Omów koncepcję "światowego systemu bezprzewodowego" Nikoli Tesli.
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Na artykuł autorstwa Henry'ego M. Bradforda z lutego 1999 roku z "The Old Timer's Bulletin".
+##### Na artykuł autorstwa Henry'ego M. Bradforda z lutego 1999 roku z "The Old Timer's Bulletin".
 
 
 </p>
@@ -69,21 +69,21 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 4. Na czym polega koncepcja "komutacji pakietów"?
+
+##### 4. Na czym polega koncepcja "komutacji pakietów"?
 ---
 
 
----
-###### 5. Czym jest ARPANET?
+
+##### 5. Czym jest ARPANET?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok założenia;
-#### Do czego miał służyć?
-#### Jakie były konsekwencje powstania ARPANET-u?
+##### Rok założenia;
+##### Do czego miał służyć?
+##### Jakie były konsekwencje powstania ARPANET-u?
 
 
 </p>
@@ -92,15 +92,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 6. Kim była Hedy Lamarr i co stworzyła?
 
+##### 6. Kim była Hedy Lamarr i co stworzyła?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rozwój kariery naukowej;
-#### Zakres wykorzystania wynalazku Lamarr współcześnie.
+##### Rozwój kariery naukowej;
+##### Zakres wykorzystania wynalazku Lamarr współcześnie.
 
 
 </p>
@@ -109,16 +109,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 7. Opisz początki rozwoju wi-fi.
 
+##### 7. Opisz początki rozwoju wi-fi.
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Co stanowi założenia funkcjonowania wi-fi?
-#### Gdzie współcześnie jest ono wykorzystywane?
-#### Jakie są mocne i słabe strony wi-fi?
+##### Co stanowi założenia funkcjonowania wi-fi?
+##### Gdzie współcześnie jest ono wykorzystywane?
+##### Jakie są mocne i słabe strony wi-fi?
 
 
 </p>
@@ -127,14 +127,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 8. Jakie mamy kategorie przewodów?
+
+##### 8. Jakie mamy kategorie przewodów?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Od czego zależy numer klasy przewodu (jego skład)
+##### Od czego zależy numer klasy przewodu (jego skład)
 
 
 
@@ -144,14 +144,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 9. Czym jest przesłuch?
 
+##### 9. Czym jest przesłuch?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Jak to wygląda w praktyce?
+##### Jak to wygląda w praktyce?
 
 
 </p>
@@ -160,15 +160,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 10. Czym był projekt SETI@home?
 
+##### 10. Czym był projekt SETI@home?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Historia projektu;
-#### Jego wpływ na rozwój Internetu.
+##### Historia projektu;
+##### Jego wpływ na rozwój Internetu.
 
 
 </p>
@@ -177,23 +177,23 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 11. Czym jest HTTP??
+
+##### 11. Czym jest HTTP??
 
 
 ---
 
 
----
-###### 12. Czym jest Agencja Unii Europejskiej ds. Cyberbezpieczeństwa (ENISA)?
 
+##### 12. Czym jest Agencja Unii Europejskiej ds. Cyberbezpieczeństwa (ENISA)?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok założenia;
-#### Czym się zajmuje;
-#### Jak jej działanie wpływa na użytkowników Internetu.
+##### Rok założenia;
+##### Czym się zajmuje;
+##### Jak jej działanie wpływa na użytkowników Internetu.
 
 
 </p>
@@ -202,16 +202,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 13. Czym jest Python?
 
+##### 13. Czym jest Python?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -220,14 +220,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 14. Pierwsza wiadomość e-mail na świecie
+
+##### 14. Pierwsza wiadomość e-mail na świecie
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Historia pierwszego wysłanego e-maila.
+##### Historia pierwszego wysłanego e-maila.
 
 
 </p>
@@ -236,15 +236,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 15. Czym było ARCHIE?
 
+##### 15. Czym było ARCHIE?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Do czego służyło?
-#### W jaki sposób użytkownik z niego korzystał?
+##### Do czego służyło?
+##### W jaki sposób użytkownik z niego korzystał?
 
 
 </p>
@@ -253,15 +253,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 16. Pierwsza kamera internetowa - opisz historię jej powstania.
 
+##### 16. Pierwsza kamera internetowa - opisz historię jej powstania.
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Kiedy została stworzona?
-#### Po co po raz pierwszy została zastosowana?
+##### Kiedy została stworzona?
+##### Po co po raz pierwszy została zastosowana?
 
 
 </p>
@@ -270,21 +270,21 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 17. Czym jest phishing?
+
+##### 17. Czym jest phishing?
 
 ---
 
 
----
-###### 18. Czym jest SaaS?
 
+##### 18. Czym jest SaaS?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Historia powstania;
-#### Zastosowanie.
+##### Historia powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -293,14 +293,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 19. Kim był Paul Baran?
 
+##### 19. Kim był Paul Baran?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Biografia Paula Barana.
+##### Biografia Paula Barana.
 
 
 
@@ -310,16 +310,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 20. Opisz początki pierwszych aukcji online.
+
+##### 20. Opisz początki pierwszych aukcji online.
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Gdzie się ona odbyła?
-#### Co zostało na niej zakupione?
-#### Pierwsze serwisy aukcyjne w Europie, USA i w krajach azjatyckich.
+##### Gdzie się ona odbyła?
+##### Co zostało na niej zakupione?
+##### Pierwsze serwisy aukcyjne w Europie, USA i w krajach azjatyckich.
 
 
 </p>
@@ -328,16 +328,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 21. Czym był Memex?
 
+##### 21. Czym był Memex?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Czy Memex był komputerem?
-#### Do czego miał służyć?
-#### Czy Memex ostatecznie został rozpowszechniony wśród pierwszych użytkowników systemów informacyjnych?
+##### Czy Memex był komputerem?
+##### Do czego miał służyć?
+##### Czy Memex ostatecznie został rozpowszechniony wśród pierwszych użytkowników systemów informacyjnych?
 
 
 </p>
@@ -346,21 +346,21 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 22. Co to jest ICANN?
 
+##### 22. Co to jest ICANN?
 
+
 ---
 
 
----
-###### 23. Czym jest e-mail?
+
+##### 23. Czym jest e-mail?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Schemat wysyłki i odbioru e-mail.
+##### Schemat wysyłki i odbioru e-mail.
 
 
 </p>
@@ -369,15 +369,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 24. Czym jest RSS?
 
+##### 24. Czym jest RSS?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Zasady działania RSS;
-#### Przykład zastosowania RSS w życiu codziennym.
+##### Zasady działania RSS;
+##### Przykład zastosowania RSS w życiu codziennym.
 
 
 </p>
@@ -386,16 +386,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 25. Czym jest Java?
 
+##### 25. Czym jest Java?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -404,16 +404,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 26. Czym jest C?
 
+##### 26. Czym jest C?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -422,15 +422,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 27. Pierwsze newsy w Internecie - jaka agencja informacyjna pierwsza rozpoczęła publikacje informacji w sieci?
 
+##### 27. Pierwsze newsy w Internecie - jaka agencja informacyjna pierwsza rozpoczęła publikacje informacji w sieci?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Pierwsza agencja informacyjna na świecie publikująca newsy online;
-#### PAP w Polsce - od którego roku publikuje informacje w sieci?
+##### Pierwsza agencja informacyjna na świecie publikująca newsy online;
+##### PAP w Polsce - od którego roku publikuje informacje w sieci?
 
 
 </p>
@@ -439,16 +439,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 28. Kiedy powstała pierwsza wyszukiwarka Google?
+
+##### 28. Kiedy powstała pierwsza wyszukiwarka Google?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Jakie miała funkcje?
-#### Co zmieniło się od czasu pierwszej wersji wyszukiwarki Google do jej współczenej iteracji?
+##### Rok powstania;
+##### Jakie miała funkcje?
+##### Co zmieniło się od czasu pierwszej wersji wyszukiwarki Google do jej współczenej iteracji?
 
 
 </p>
@@ -457,15 +457,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 29. Czym jest model TCP/IP?
 
+##### 29. Czym jest model TCP/IP?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórcy modelu;
-#### Podział na warstwy.
+##### Twórcy modelu;
+##### Podział na warstwy.
 
 
 
@@ -475,16 +475,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 30. Czym było narzędzie Gopher?
 
+##### 30. Czym było narzędzie Gopher?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Czym było?
-#### Do czego służyło?
-#### Do jakiego roku było rozwijane?
+##### Czym było?
+##### Do czego służyło?
+##### Do jakiego roku było rozwijane?
 
 
 </p>
@@ -493,15 +493,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 31. Czym było DigiCash?
+
+##### 31. Czym było DigiCash?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca;
-#### Co zostało zapoczątkowane dzięki DigiCash?
+##### Twórca;
+##### Co zostało zapoczątkowane dzięki DigiCash?
 
 
 
@@ -511,23 +511,23 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 32. Czym jest domena?
 
+##### 32. Czym jest domena?
 
+
 ---
 
 
----
-###### 33. O czym jest pierwsza strona internetowa?
 
+##### 33. O czym jest pierwsza strona internetowa?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Kiedy powstała;
-#### Kto ją założył;
-#### Czy jest nadal dostępna.
+##### Kiedy powstała;
+##### Kto ją założył;
+##### Czy jest nadal dostępna.
 
 
 </p>
@@ -536,14 +536,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 34. Czym jest domena kolizyjna?
+
+##### 34. Czym jest domena kolizyjna?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Kiedy zachodzi?
+##### Kiedy zachodzi?
 
 
 </p>
@@ -552,15 +552,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 35. Kiedy pojawiły się pierwsze blogi w Internecie?
 
+##### 35. Kiedy pojawiły się pierwsze blogi w Internecie?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Pierwsze platformy bloggingowe na świecie;
-#### Pierwszy polski blog opublikowany w Internecie;
+##### Pierwsze platformy bloggingowe na świecie;
+##### Pierwszy polski blog opublikowany w Internecie;
 
 
 </p>
@@ -569,15 +569,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 36. Co stworzył Marc Andreessen?
 
+##### 36. Co stworzył Marc Andreessen?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Kiedy to stworzył;
-#### Do czego ten twór służył.
+##### Kiedy to stworzył;
+##### Do czego ten twór służył.
 
 
 </p>
@@ -586,14 +586,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 37. Czym charakteryzuje się światłowód?
+
+##### 37. Czym charakteryzuje się światłowód?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Zastosowanie
+##### Zastosowanie
 
 
 </p>
@@ -602,14 +602,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 38. Kim był Tim Berners-Lee i za co był odpowiedzialny?
 
+##### 38. Kim był Tim Berners-Lee i za co był odpowiedzialny?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Biografia Tima Bernersa-Lee
+##### Biografia Tima Bernersa-Lee
 
 
 
@@ -619,15 +619,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 39. Czym jest model OSI/ISO?
 
+##### 39. Czym jest model OSI/ISO?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca;
-#### Warstwy.
+##### Twórca;
+##### Warstwy.
 
 
 </p>
@@ -636,16 +636,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 40. Czym jest C++?
+
+##### 40. Czym jest C++?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -654,20 +654,20 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 41. Czym się między sobą różnią klient a serwer?
 
+##### 41. Czym się między sobą różnią klient a serwer?
+
 ---
 
 
----
-###### 42. Czym jest pop3?
 
+##### 42. Czym jest pop3?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Zastosowanie.
+##### Zastosowanie.
 
 
 </p>
@@ -676,15 +676,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 43. Czym jest Ethernet?
+
+##### 43. Czym jest Ethernet?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Kiedy powstał?
-#### Zastosowanie.
+##### Kiedy powstał?
+##### Zastosowanie.
 
 
 </p>
@@ -693,16 +693,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 44. Czym jest Web 2.0?
 
+##### 44. Czym jest Web 2.0?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Od kiedy funkcjonuje (rama czasowa)?
-#### Co wchodzi w skład?
-#### https://www.cambridge.org/engage/coe/article-details/638df3bd14d92d5c41a1b27d
+##### Od kiedy funkcjonuje (rama czasowa)?
+##### Co wchodzi w skład?
+##### https://www.cambridge.org/engage/coe/article-details/638df3bd14d92d5c41a1b27d
 
 
 </p>
@@ -711,16 +711,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 45. Czym jest C#?
 
+##### 45. Czym jest C#?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -729,26 +729,26 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 46. Czym jest FTP?
+
+##### 46. Czym jest FTP?
 
 ---
 
 
----
-###### 47. Czym jest sftp?
 
+##### 47. Czym jest sftp?
+
 ---
 
 
----
-###### 48. Jakie wyróżniamy najpopularniejsze protokoły internetowe?
 
+##### 48. Jakie wyróżniamy najpopularniejsze protokoły internetowe?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Podaj 3 przykłady wybranych protokołów internetowych.
+##### Podaj 3 przykłady wybranych protokołów internetowych.
 
 
 
@@ -758,14 +758,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 49. Jakie były pierwsze media społecznościowe?
+
+##### 49. Jakie były pierwsze media społecznościowe?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Podaj przykład 2 dowolnych portali społecznościowych z lat 2000 - 2010
+##### Podaj przykład 2 dowolnych portali społecznościowych z lat 2000 - 2010
 
 
 
@@ -775,14 +775,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 50. Czym jest router?
+
+##### 50. Czym jest router?
 
 ---
 
 
----
-###### 51. Czym jest hub?
+
+##### 51. Czym jest hub?
 
 
 
@@ -790,14 +790,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 52. Na czym polega koncepcja "zielonego Internetu"?
 
+##### 52. Na czym polega koncepcja "zielonego Internetu"?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Materiały z Pegaz
+##### Materiały z Pegaz
 
 
 </p>
@@ -806,16 +806,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 53. Czym jest Ruby?
 
+##### 53. Czym jest Ruby?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -824,15 +824,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 54. Czym jest adres IP?
+
+##### 54. Czym jest adres IP?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Adres lokalny;
-#### Adres publiczny.
+##### Adres lokalny;
+##### Adres publiczny.
 
 
 </p>
@@ -841,32 +841,32 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 55. Czym są zapytania iteracyjne?
 
+##### 55. Czym są zapytania iteracyjne?
+
 ---
 
 
----
-###### 56. Czym jest SMTP?
+
+##### 56. Czym jest SMTP?
 ---
 
 
----
-###### 57. Czym się różnią między sobą IPv4 a IPv6?
+
+##### 57. Czym się różnią między sobą IPv4 a IPv6?
 
 ---
 
 
----
-###### 58. Czym jest wirus?
 
+##### 58. Czym jest wirus?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rodzaje wirusów;
-#### Sposoby zapobiegania ściągania wirusów na komputery.
+##### Rodzaje wirusów;
+##### Sposoby zapobiegania ściągania wirusów na komputery.
 
 
 </p>
@@ -875,15 +875,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 59. Czym są operatory boolowskie?
 
+##### 59. Czym są operatory boolowskie?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Funkcje operatorów;
-#### Zastosowanie w procesie wyszukiwania informacji w sieci.
+##### Funkcje operatorów;
+##### Zastosowanie w procesie wyszukiwania informacji w sieci.
 
 
 </p>
@@ -892,22 +892,22 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 60. Czym jest licencja MIT?
+
+##### 60. Czym jest licencja MIT?
 
 ---
 
 
----
-###### 61. Czym jest PHP?
 
+##### 61. Czym jest PHP?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -916,20 +916,20 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 62. Po co są potrzebne licencje na oprogramowanie i twory cyfrowe?
 
+##### 62. Po co są potrzebne licencje na oprogramowanie i twory cyfrowe?
+
 ---
 
 
----
-###### 63. Jakie mamy licencje Creative Commons?
+
+##### 63. Jakie mamy licencje Creative Commons?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Czy Uniwersytet Jagielloński wykorzystuje licencje CC, jeżeli tak - gdzie?
+##### Czy Uniwersytet Jagielloński wykorzystuje licencje CC, jeżeli tak - gdzie?
 
 </p>
 </details>
@@ -937,15 +937,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 64. Czym jest wzorzec projektowy oprogramowania?
 
+##### 64. Czym jest wzorzec projektowy oprogramowania?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Co wchodzi w jego skład?
-#### Do czego służy?
+##### Co wchodzi w jego skład?
+##### Do czego służy?
 
 
 </p>
@@ -954,20 +954,20 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 65. Czym jest Open Source Initiative?
 
+##### 65. Czym jest Open Source Initiative?
+
 ---
 
 
----
-###### 66. Czym jest spoofing?
+
+##### 66. Czym jest spoofing?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### W jaki sposób przebiega atak?
+##### W jaki sposób przebiega atak?
 
 
 
@@ -977,21 +977,21 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 67. Czym jest licencja GNU (GPLv3)?
 
+##### 67. Czym jest licencja GNU (GPLv3)?
 
+
 ---
 
 
----
-###### 68. Jak możemy tworzyć kwerendy wyszukiwawcze w celu przetwarzania informacji w Internecie?
 
+##### 68. Jak możemy tworzyć kwerendy wyszukiwawcze w celu przetwarzania informacji w Internecie?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Sposoby budowania kwerend wyszukiwawczych.
+##### Sposoby budowania kwerend wyszukiwawczych.
 
 
 </p>
@@ -1000,14 +1000,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 69. Czym jest CC Rights Expression Language?
+
+##### 69. Czym jest CC Rights Expression Language?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Gdzie jest stosowany?
+##### Gdzie jest stosowany?
 
 
 </p>
@@ -1016,16 +1016,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 70. Czym jest ObjectiveC?
 
+##### 70. Czym jest ObjectiveC?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -1034,44 +1034,44 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 71. Jakie są podobieństwa między IPv4 a IPv6?
 
+##### 71. Jakie są podobieństwa między IPv4 a IPv6?
+
 ---
 
 
----
-###### 72. Czym jest system rozproszony?
+
+##### 72. Czym jest system rozproszony?
 
 ---
 
 
----
-###### 73. Czym jest system klient-serwer?
 
+##### 73. Czym jest system klient-serwer?
 
 
 
+
 ---
 
 
----
-###### 74. Jakie są różnice pomiędzy systemem peer-to-peer a systemem klient-serwer?
 
+##### 74. Jakie są różnice pomiędzy systemem peer-to-peer a systemem klient-serwer?
 
+
 ---
 
 
----
-###### 75. Czym jest Julia?
 
+##### 75. Czym jest Julia?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -1080,40 +1080,40 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 76. Czym jest SSH?
 
+##### 76. Czym jest SSH?
 
 
+
 ---
 
 
----
-###### 77. Czym jest licencja Berkeley Software Distribution (BSD)?
+
+##### 77. Czym jest licencja Berkeley Software Distribution (BSD)?
 
 ---
 
 
----
-###### 78. Czym jest licencja Apache 2.0?
 
+##### 78. Czym jest licencja Apache 2.0?
+
 ---
 
 
----
-###### 79. Czym jest IMAP?
+
+##### 79. Czym jest IMAP?
 ---
 
 
----
-###### 80. Jakie zagrożenia w sieci może spotkać użytkownik Internetu?
+
+##### 80. Jakie zagrożenia w sieci może spotkać użytkownik Internetu?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Zagrożenia w sieci niebezpieczne dla małoletnich;
-#### Zagrożenia w sieci niebezpieczne dla seniorów.
+##### Zagrożenia w sieci niebezpieczne dla małoletnich;
+##### Zagrożenia w sieci niebezpieczne dla seniorów.
 
 
 </p>
@@ -1122,17 +1122,17 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 81. Czym jest packet sniffing?
 
+##### 81. Czym jest packet sniffing?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
-#### Przebieg ataku;
-#### Cel ataku.
+##### Rok powstania;
+##### Zastosowanie.
+##### Przebieg ataku;
+##### Cel ataku.
 
 
 
@@ -1142,16 +1142,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 82. Czym jest R?
 
+##### 82. Czym jest R?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -1160,21 +1160,21 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 83. Czym jest SSL?
+
+##### 83. Czym jest SSL?
 
 
 ---
 
 
----
-###### 84. Jakie były pierwsze kryptowaluty?
 
+##### 84. Jakie były pierwsze kryptowaluty?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Swoją odpowiedź zawęź do krótkiej definicji i podaj przykład kryptowaluty powstałej w latach 1995-2010
+##### Swoją odpowiedź zawęź do krótkiej definicji i podaj przykład kryptowaluty powstałej w latach 1995-2010
 
 
 </p>
@@ -1183,14 +1183,14 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 85. Kim byli Bob Kahn i Vint Cerf?
 
+##### 85. Kim byli Bob Kahn i Vint Cerf?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Biografia obu twórców.
+##### Biografia obu twórców.
 
 
 </p>
@@ -1199,15 +1199,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 86. Czym jest licencja CC - Uznanie Autorstwa - Na tych samych warunkach?
+
+##### 86. Czym jest licencja CC - Uznanie Autorstwa - Na tych samych warunkach?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1216,15 +1216,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 87. Czym jest protokół DNS?
+
+##### 87. Czym jest protokół DNS?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1233,15 +1233,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 88. Czym jest CSS?
+
+##### 88. Czym jest CSS?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1250,22 +1250,22 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 89. Jakie są różnice pomiędzy SSH a SSL?
 
+##### 89. Jakie są różnice pomiędzy SSH a SSL?
+
 ---
 
 
----
-###### 90. Czym jest Swift?
 
+##### 90. Czym jest Swift?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -1274,20 +1274,20 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 91. Czym jest zapytanie rekurencyjne?
+
+##### 91. Czym jest zapytanie rekurencyjne?
 ---
 
 
----
-###### 92. Czym jest XHTML?
 
+##### 92. Czym jest XHTML?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1296,15 +1296,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 93. Czym jest .NET?
 
+##### 93. Czym jest .NET?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1313,15 +1313,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 94. Czym jest AJAX?
+
+##### 94. Czym jest AJAX?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1330,16 +1330,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 95. Czym jest GO?
 
+##### 95. Czym jest GO?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Twórca; rok
-#### Cechy charakterystyczne;
-#### Zastosowanie.
+##### Twórca; rok
+##### Cechy charakterystyczne;
+##### Zastosowanie.
 
 
 </p>
@@ -1348,16 +1348,16 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 96. Czym jest spam?
 
+##### 96. Czym jest spam?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Po co w ogóle wysyła się spam;
-#### Zagrożenia związane z otrzymywaniem spamu przez użytkowników;
-#### Sposoby unikania spamu.
+##### Po co w ogóle wysyła się spam;
+##### Zagrożenia związane z otrzymywaniem spamu przez użytkowników;
+##### Sposoby unikania spamu.
 
 
 </p>
@@ -1366,15 +1366,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 97. Czym jest DHTML?
+
+##### 97. Czym jest DHTML?
 
 
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1383,15 +1383,15 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 98. Czym jest jQuery?
 
+##### 98. Czym jest jQuery?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Rok powstania;
-#### Zastosowanie.
+##### Rok powstania;
+##### Zastosowanie.
 
 
 </p>
@@ -1400,25 +1400,24 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 ---
 
 
----
-###### 99. Jakie są podobieństwa pomiędzy SSH a SSL?
+
+##### 99. Jakie są podobieństwa pomiędzy SSH a SSL?
 ---
 
 
----
-###### 100. Czym jest adres MAC?
 
+##### 100. Czym jest adres MAC?
 
+
 <details><summary><b>Na co zwrócić uwagę?</b></summary>
 <p>
 
-#### Do czego służy?
+##### Do czego służy?
 
 
 </p>
 </details>
 
----
 
 
 ---
