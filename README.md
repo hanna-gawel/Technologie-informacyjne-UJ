@@ -5,7 +5,7 @@
   <h2>Uniwersytet Jagielloński w Krakowie</h2>
 ---
 
-<span>Poniżej podaję listę pytań zaliczeniowych dla przedmiotu # Technologie internetowe – wprowadzenie [kod przedmiotu: WZ.KLK-TI] Ostatnia aktualizacja: <a href=#20200612><b>08/01/2023</b></a>
+<span>Poniżej podaję listę pytań zaliczeniowych dla przedmiotu # Technologie internetowe – wprowadzenie [kod przedmiotu: WZ.KLK-TI] Ostatnia aktualizacja: <a href=#20200612><b>09/12/2023</b></a>
 
 Od pierwszego tematu do ostatniego, poniższa lista zawiera 100 pytań, związanych z przedmiotem. Dodatkowo, w **rozsuwanej liście** poniżej pytań, przy niektórych z nich dodałam punkty, na które warto zwrócić uwagę. Aby je odsłonić, po prostu kliknij na pytanie. Powodzenia w przygotowaniu do zaliczenia! :heart:</span>
 
