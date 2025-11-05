@@ -16,7 +16,7 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 | Pytania każdego roku będą aktualizowane! 😃  będę _naprawdę_ wdzięczna za feedback w UJ Ankiecie po zakończeniu kursu, aby poznać Państwa opinie na temat przedmiotu. Z Państwa pomocą będę w stanie uczynić ten kurs jeszcze ciekawszym dla Was! 💪🏼 Dziękuję i zapraszam do nauki!   |
 |---|
 
- # Zestaw 150 pytań z technologii internetowych (2025/2026)
+
 
 ## 📑 Spis treści
 
