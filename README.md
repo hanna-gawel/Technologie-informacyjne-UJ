@@ -5,376 +5,985 @@
   <h2>Uniwersytet Jagielloński w Krakowie</h2>
 ---
 
-<span>Poniżej podaję listę pytań zaliczeniowych dla przedmiotu # Technologie internetowe – wprowadzenie [kod przedmiotu: WZ.KLK-TI] Ostatnia aktualizacja: <a href=#20200612><b>5/11/2025</b></a>
+<span>Poniżej podaję listę pytań zaliczeniowych dla przedmiotu # Technologie internetowe – wprowadzenie [kod przedmiotu: WZ.KLK-TI] Ostatnia aktualizacja: <a href=#20200612><b>19/11/2026</b></a>
 
-Od pierwszego tematu do ostatniego, poniższa lista zawiera 100 pytań, związanych z przedmiotem. Dodatkowo, w **rozsuwanej liście** poniżej pytań, przy niektórych z nich dodałam punkty, na które warto zwrócić uwagę. Aby je odsłonić, po prostu kliknij na pytanie. Powodzenia w przygotowaniu do zaliczenia! :heart:</span>
+Od pierwszego tematu do ostatniego, poniższa lista zawiera 100 pytań, związanych z przedmiotem. Powodzenia w przygotowaniu do zaliczenia! :heart:</span>
 
 W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <br />
 <a href="mailto:hanna.gawel@uj.edu.pl">E-mail</a> || <a href="https://www.usosweb.uj.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=253310">Strona w USOSweb UJ</a> || <a href="https://linqapp.com/hanna_gawel">Wizytówka Linq</a>
 </div>
 
-| Pytania każdego roku będą aktualizowane! 😃  będę _naprawdę_ wdzięczna za feedback w UJ Ankiecie po zakończeniu kursu, aby poznać Państwa opinie na temat przedmiotu. Z Państwa pomocą będę w stanie uczynić ten kurs jeszcze ciekawszym dla Was! 💪🏼 Dziękuję i zapraszam do nauki!   |
+| Pytania każdego roku są aktualizowane! 😃  będę _naprawdę_ wdzięczna za feedback w UJ Ankiecie po zakończeniu kursu, aby poznać Państwa opinie na temat przedmiotu. Z Państwa pomocą będę w stanie uczynić ten kurs jeszcze ciekawszym dla Was! 💪🏼 Dziękuję i zapraszam do nauki!   |
 |---|
 
+### 1. Ile obecnie ma lat Internet (licząc od daty początkowej do roku 2023)?
 
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
 
-## 📑 Spis treści
+- Początkowa data Internetu dostępnego dla obywateli?
+- Ile współcześnie mamy użytkowników Internetu na świecie?
 
-- [1. Sieci i Architektura Internetu](#1-sieci-i-architektura-internetu)
-- [2. Bezpieczeństwo i Szyfrowanie](#2-bezpieczeństwo-i-szyfrowanie)
-- [3. Serwery i Protokóły](#3-serwery-i-protokóły)
-- [4. Aplikacje Webowe i Programowanie](#4-aplikacje-webowe-i-programowanie)
-- [5. Bazy Danych i API](#5-bazy-danych-i-api)
-- [6. Optymalizacja i SEO](#6-optymalizacja-i-seo)
-- [7. Chmura, Sieci i Nowe Trendy](#7-chmura-sieci-i-nowe-trendy)
-- [8. Licencje i Etyka Cyfrowa](#8-licencje-i-etyka-cyfrowa)
+</details>
 
 ---
 
-## 1. Sieci i Architektura Internetu
+### 2. Opisz 2 wybrane modele pierwszych komputerów na świecie.
+
+<details>
+<summary><b>Przykładowe modele komputerów do wyboru:</b></summary>
+
+- Z1 Konrada Zuse z 1938 roku;
+- Komputer Atanasoffa-Berry'ego (ABC) z 1942 roku;
+- IBM PC z 1981 roku.
+
+</details>
 
 ---
 
-1. Jak działa proces translacji nazw domen w systemie DNSSEC?  
----
-2. Na czym polega różnica między szyfrowaniem symetrycznym a asymetrycznym w kontekście HTTPS?  
----
-3. W jaki sposób przeglądarka interpretuje i renderuje kod HTML?  
----
-4. Jakie są najważniejsze funkcje protokołu HTTP/3 w porównaniu z HTTP/2?  
----
-5. W jaki sposób działają pliki cookie i jakie zagrożenia niosą dla prywatności użytkownika?  
----
-6. Jakie znaczenie ma protokół QUIC w przyspieszaniu komunikacji internetowej?  
----
-7. Jakie są etapy przesyłania danych w modelu OSI?  
----
-8. Co to jest DNS poisoning i jak się przed nim bronić?  
----
-9. Jakie są główne różnice między hostingiem współdzielonym a VPS-em?  
----
-10. Jak działa certyfikat SSL typu wildcard?  
----
-11. W jaki sposób firewall filtruje ruch sieciowy?  
----
-12. Jakie są różnice między HTTP a WebSocket?  
----
-13. Jakie są zalety i wady IPv6 w porównaniu z IPv4?  
----
-14. Czym jest adresacja CIDR?  
----
-15. Jak działa HTTPS handshake?  
----
-16. Jak działa traceroute i do czego służy?  
----
-17. Co to jest reverse DNS lookup?  
----
-18. Jak działa DNS over HTTPS (DoH)?  
----
-19. Jakie są różnice między protokołami UDP a TCP?  
----
-20. Co to jest latency i jak ją mierzyć?  
+### 3. Omów koncepcję „światowego systemu bezprzewodowego” Nikoli Tesli.
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Na artykuł autorstwa Henry'ego M. Bradforda z lutego 1999 roku z „The Old Timer's Bulletin”.
+
+</details>
 
 ---
 
-## 2. Bezpieczeństwo i Szyfrowanie
+### 4. Na czym polega koncepcja „komutacji pakietów”?
 
 ---
 
-21. Jak działa certyfikat SSL typu wildcard?  
----
-22. Czym różni się szyfrowanie end-to-end od transportowego?  
----
-23. Jakie mechanizmy stosują przeglądarki, aby zapobiec atakom typu XSS?  
----
-24. Na czym polega atak typu man-in-the-middle?  
----
-25. Jak działają DNS load balancery?  
----
-26. Jakie są rodzaje ataków DDoS i jak można im przeciwdziałać?  
----
-27. Jakie są kluczowe różnice między szyfrowaniem AES a RSA?  
----
-28. Co to jest token JWT i do czego służy?  
----
-29. Jakie są metody ochrony przed CSRF?  
----
-30. Co to jest HSTS i dlaczego jest ważne?  
----
-31. Jak działa protokół SSL pinning?  
----
-32. Co to jest DMARC i jak chroni domeny przed spamem?  
----
-33. Jakie są zasady bezpieczeństwa haseł w sieci?  
----
-34. Co to jest ransomware i jak się przed nim chronić?  
----
-35. Jakie są przykłady narzędzi do testów penetracyjnych?  
----
-36. Jak działa API rate limiting?  
----
-37. Co to jest zero-trust architecture?  
----
-38. Jak działa system IDS/IPS?  
----
-39. Co to jest honeypot i jakie ma zastosowanie?  
----
-40. Jak działa firewall nowej generacji (NGFW)?  
+### 5. Czym jest ARPANET?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok założenia;
+- Do czego miał służyć?
+- Jakie były konsekwencje powstania ARPANET-u?
+
+</details>
 
 ---
 
-## 3. Serwery i Protokóły
+### 6. Kim była Hedy Lamarr i co stworzyła?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rozwój kariery naukowej;
+- Zakres wykorzystania wynalazku Lamarr współcześnie.
+
+</details>
 
 ---
 
-41. Jakie są funkcje systemu DHCP?  
----
-42. Jak działa DNS resolver?  
----
-43. Jakie są zalety kompresji Brotli?  
----
-44. Jak działa HTTP caching?  
----
-45. Co to jest Content Security Policy (CSP)?  
----
-46. Jak działa HTTP redirect 301 i 302?  
----
-47. Jak działa reverse proxy?  
----
-48. Jakie są funkcje load balancera aplikacyjnego?  
----
-49. Jak działa protokół NTP?  
----
-50. Co to jest ICMP i jak działa ping?  
----
-51. Jak działa protokół SCP?  
----
-52. Co to jest WebDAV?  
----
-53. Jak działa DNS caching resolver?  
----
-54. Co to jest traceroute i ping?  
----
-55. Jak działa TLS handshake w szczegółach?  
----
-56. Co to jest diffie-hellman key exchange?  
----
-57. Jak działa mechanizm time-to-live (TTL) w pakietach IP?  
----
-58. Jakie są różnice między IPv6 link-local a global addresses?  
----
-59. Jak działa sieć mesh Wi-Fi?  
----
-60. Co to jest edge computing i gdzie się go stosuje?  
+### 7. Opisz początki rozwoju Wi-Fi.
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Co stanowi założenia funkcjonowania Wi-Fi?
+- Gdzie współcześnie jest ono wykorzystywane?
+- Jakie są mocne i słabe strony Wi-Fi?
+
+</details>
 
 ---
 
-## 4. Aplikacje Webowe i Programowanie
+### 8. Jakie mamy kategorie przewodów?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Od czego zależy numer klasy przewodu (jego skład)?
+
+</details>
 
 ---
 
-61. Czym jest API i jak ułatwia integrację systemów?  
----
-62. Jak działa REST API i czym różni się od SOAP?  
----
-63. Jak działa mechanizm cache’owania stron internetowych?  
----
-64. Jakie technologie umożliwiają tworzenie aplikacji typu SPA?  
----
-65. Jakie są zalety frameworków frontendowych (np. React, Vue)?  
----
-66. Czym jest model MVC?  
----
-67. Jak działa framework Django?  
----
-68. Jakie są różnice między Pythonem a JavaScriptem w kontekście aplikacji webowych?  
----
-69. Jak działa routing w aplikacjach SPA?  
----
-70. Co to jest progressive web app (PWA)?  
----
-71. Jak działa HTTP request/response cycle?  
----
-72. Jakie są różnice między metodami GET a POST?  
----
-73. Jak działa API GraphQL?  
----
-74. Co to jest WebAssembly?  
----
-75. Jak działa WebSocket handshake?  
----
-76. Jak działa ORM w bazach danych?  
----
-77. Jak działa mechanizm sesji w PHP?  
----
-78. Co to jest plik .htaccess?  
----
-79. Jakie są zalety i wady frameworka Flask?  
----
-80. Jakie są różnice między AJAX a Fetch API?  
+### 9. Czym jest przesłuch?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Jak to wygląda w praktyce?
+
+</details>
 
 ---
 
-## 5. Bazy Danych i API
+### 10. Czym był projekt SETI@home?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Historia projektu;
+- Jego wpływ na rozwój Internetu.
+
+</details>
 
 ---
 
-81. Jakie są różnice między SQL a NoSQL?  
----
-82. Co to jest middleware w aplikacjach webowych?  
----
-83. Jakie są formaty wymiany danych między serwerami a klientami?  
----
-84. Czym różni się JSON od XML?  
----
-85. Jak działa algorytm PageRank?  
----
-86. Jak działa system CDN w serwisach streamingowych?  
----
-87. Jak działa Content Delivery Network?  
----
-88. Jak działa CDN w e-commerce?  
----
-89. Jak działa DNS round-robin?  
----
-90. Co to jest reverse DNS lookup?  
----
-91. Jak działa WHOIS?  
----
-92. Jak działa API rate limiting?  
----
-93. Co to jest web crawler i jak działa?  
----
-94. Jak działa system logowania błędów w aplikacjach webowych?  
----
-95. Jakie są narzędzia do monitoringu API?  
----
-96. Co to jest latency-based routing?  
----
-97. Jak działa algorytm DNS resolvera?  
----
-98. Jak działa DNS root servers?  
----
-99. Jak działa TTL w rekordach DNS?  
----
-100. Jakie są zasady działania CDN globalnych?  
+### 11. Czym jest HTTP?
 
 ---
 
-## 6. Optymalizacja i SEO
+### 12. Czym jest Agencja Unii Europejskiej ds. Cyberbezpieczeństwa (ENISA)?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok założenia;
+- Czym się zajmuje;
+- Jak jej działanie wpływa na użytkowników Internetu.
+
+</details>
 
 ---
 
-101. Jakie są metody optymalizacji zapytań wyszukiwawczych?  
----
-102. Jak działa mechanizm indeksowania w Google?  
----
-103. Co to jest metatag i jak wpływa na widoczność strony?  
----
-104. Jakie są różnice między SEO a SEM?  
----
-105. Jak działa plik robots.txt?  
----
-106. Jak działa sitemap.xml?  
----
-107. Jakie są podstawowe zasady pozycjonowania stron?  
----
-108. Co to jest canonical link?  
----
-109. Jakie są metody analizy ruchu użytkowników na stronie?  
----
-110. Jak działa optymalizacja obrazów w kontekście SEO?  
+### 13. Czym jest Python?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
 
 ---
 
-## 7. Chmura, Sieci i Nowe Trendy
+### 14. Pierwsza wiadomość e-mail na świecie.
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Historia pierwszego wysłanego e-maila.
+
+</details>
 
 ---
 
-111. Jakie są różnice między chmurą prywatną, publiczną i hybrydową?  
----
-112. Co to jest Kubernetes i do czego służy?  
----
-113. Jak działa Docker i konteneryzacja aplikacji?  
----
-114. Na czym polega architektura microservices?  
----
-115. Co to jest SaaS, PaaS i IaaS?  
----
-116. Jakie są zalety wirtualizacji w infrastrukturze sieciowej?  
----
-117. Jakie są wyzwania ekologiczne tzw. „zielonego Internetu”?  
----
-118. Jakie są zalety stosowania open source w chmurze?  
----
-119. Jak działa automatyczne skalowanie aplikacji?  
----
-120. Jakie są trendy w rozwoju sieci 5G i ich wpływ na Internet?  
----
-121. Jak działa infrastruktura Web 3.0?  
----
-122. Co to jest blockchain i jak wpływa na przejrzystość sieci?  
----
-123. Jak działają kryptowaluty w kontekście zdecentralizowanych systemów?  
----
-124. Jakie są wyzwania bezpieczeństwa w aplikacjach chmurowych?  
----
-125. Jak działa federacja tożsamości w środowiskach chmurowych?  
----
-126. Co to jest IoT i jak łączy się z architekturą sieciową?  
----
-127. Jak działa edge AI w nowoczesnych urządzeniach sieciowych?  
----
-128. Jakie są ograniczenia skalowalności usług SaaS?  
----
-129. Co to jest fog computing i czym różni się od edge computing?  
----
-130. Jakie są przyszłe kierunki rozwoju Internetu Rzeczy?  
+### 15. Czym było ARCHIE?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Do czego służyło?
+- W jaki sposób użytkownik z niego korzystał?
+
+</details>
 
 ---
 
-## 8. Licencje i Etyka Cyfrowa
+### 16. Pierwsza kamera internetowa – opisz historię jej powstania.
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Kiedy została stworzona?
+- Po co po raz pierwszy została zastosowana?
+
+</details>
 
 ---
 
-131. Jakie są różnice między licencjami GNU GPL, MIT i Apache 2.0?  
----
-132. Jak działa licencja BSD?  
----
-133. Jakie są zasady korzystania z licencji Creative Commons?  
----
-134. Czym różni się licencja komercyjna od open-source?  
----
-135. Jakie są zasady ochrony praw autorskich w kodzie źródłowym?  
----
-136. Co to jest plagiat cyfrowy i jak mu zapobiegać?  
----
-137. Jakie są etyczne dylematy sztucznej inteligencji w Internecie?  
----
-138. Co to jest net neutrality i jakie są jej konsekwencje?  
----
-139. Jak działa prawo do bycia zapomnianym w kontekście RODO?  
----
-140. Jakie są zasady etyki w sieciach społecznościowych?  
----
-141. Jakie są główne problemy związane z dezinformacją online?  
----
-142. Jakie znaczenie ma transparentność algorytmów w wyszukiwarkach?  
----
-143. Co to jest cyfrowy ślad użytkownika i jak go minimalizować?  
----
-144. Jakie są skutki masowego profilowania danych w reklamie online?  
----
-145. Jak działa fact-checking i jakie technologie go wspierają?  
----
-146. Co to jest deepfake i jak można go rozpoznać?  
----
-147. Jakie są zasady etyczne dotyczące wykorzystywania danych użytkowników?  
----
-148. Jakie są przykłady open-data initiatives w administracji publicznej?  
----
-149. Jakie są wyzwania prawne dla sztucznej inteligencji w UE?  
----
-150. Jak można budować zrównoważoną kulturę cyfrową w erze automatyzacji?  
+### 17. Czym jest phishing?
 
 ---
+
+### 18. Czym jest SaaS?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Historia powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 19. Kim był Paul Baran?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Biografia Paula Barana.
+
+</details>
+
+---
+
+### 20. Opisz początki pierwszych aukcji online.
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Gdzie się ona odbyła?
+- Co zostało na niej zakupione?
+- Pierwsze serwisy aukcyjne w Europie, USA i w krajach azjatyckich.
+
+</details>
+
+---
+
+### 21. Czym był Memex?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Czy Memex był komputerem?
+- Do czego miał służyć?
+- Czy Memex ostatecznie został rozpowszechniony wśród pierwszych użytkowników systemów informacyjnych?
+
+</details>
+
+---
+
+### 22. Co to jest ICANN?
+
+---
+
+### 23. Czym jest e-mail?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Schemat wysyłki i odbioru e-mail.
+
+</details>
+
+---
+
+### 24. Czym jest RSS?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Zasady działania RSS;
+- Przykład zastosowania RSS w życiu codziennym.
+
+</details>
+
+---
+
+### 25. Czym jest Java?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 26. Czym jest C?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 27. Pierwsze newsy w Internecie – jaka agencja informacyjna pierwsza rozpoczęła publikacje informacji w sieci?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Pierwsza agencja informacyjna na świecie publikująca newsy online;
+- PAP w Polsce – od którego roku publikuje informacje w sieci?
+
+</details>
+
+---
+
+### 28. Kiedy powstała pierwsza wyszukiwarka Google?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Jakie miała funkcje?
+- Co zmieniło się od czasu pierwszej wersji wyszukiwarki Google do jej współczesnej iteracji?
+
+</details>
+
+---
+
+### 29. Czym jest model TCP/IP?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórcy modelu;
+- Podział na warstwy.
+
+</details>
+
+---
+
+### 30. Czym było narzędzie Gopher?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Czym było?
+- Do czego służyło?
+- Do jakiego roku było rozwijane?
+
+</details>
+
+---
+
+### 31. Czym było DigiCash?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca;
+- Co zostało zapoczątkowane dzięki DigiCash?
+
+</details>
+
+---
+
+### 32. Czym jest domena?
+
+---
+
+### 33. O czym jest pierwsza strona internetowa?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Kiedy powstała;
+- Kto ją założył;
+- Czy jest nadal dostępna.
+
+</details>
+
+---
+
+### 34. Czym jest domena kolizyjna?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Kiedy zachodzi?
+
+</details>
+
+---
+
+### 35. Kiedy pojawiły się pierwsze blogi w Internecie?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Pierwsze platformy bloggingowe na świecie;
+- Pierwszy polski blog opublikowany w Internecie.
+
+</details>
+
+---
+
+### 36. Co stworzył Marc Andreessen?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Kiedy to stworzył;
+- Do czego ten twór służył.
+
+</details>
+
+---
+
+### 37. Czym charakteryzuje się światłowód?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Zastosowanie.
+
+</details>
+
+---
+
+### 38. Kim był Tim Berners-Lee i za co był odpowiedzialny?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Biografia Tima Bernersa-Lee.
+
+</details>
+
+---
+
+### 39. Czym jest model OSI/ISO?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca;
+- Warstwy.
+
+</details>
+
+---
+
+### 40. Czym jest C++?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 41. Czym się między sobą różnią klient a serwer?
+
+---
+
+### 42. Czym jest POP3?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Zastosowanie.
+
+</details>
+
+---
+
+### 43. Czym jest Ethernet?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Kiedy powstał?
+- Zastosowanie.
+
+</details>
+
+---
+
+### 44. Czym jest Web 2.0?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Od kiedy funkcjonuje (rama czasowa)?
+- Co wchodzi w skład?
+- Artykuł: https://www.cambridge.org/engage/coe/article-details/638df3bd14d92d5c41a1b27d
+
+</details>
+
+---
+
+### 45. Czym jest C#?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 46. Czym jest FTP?
+
+---
+
+### 47. Czym jest SFTP?
+
+---
+
+### 48. Jakie wyróżniamy najpopularniejsze protokoły internetowe?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Podaj 3 przykłady wybranych protokołów internetowych.
+
+</details>
+
+---
+
+### 49. Jakie były pierwsze media społecznościowe?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Podaj przykład 2 dowolnych portali społecznościowych z lat 2000–2010.
+
+</details>
+
+---
+
+### 50. Czym jest router?
+
+---
+
+### 51. Czym jest hub?
+
+---
+
+### 52. Na czym polega koncepcja „zielonego Internetu”?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Materiały z Pegaz.
+
+</details>
+
+---
+
+### 53. Czym jest Ruby?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 54. Czym jest adres IP?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Adres lokalny;
+- Adres publiczny.
+
+</details>
+
+---
+
+### 55. Czym są zapytania iteracyjne?
+
+---
+
+### 56. Czym jest SMTP?
+
+---
+
+### 57. Czym się różnią między sobą IPv4 a IPv6?
+
+---
+
+### 58. Czym jest wirus?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rodzaje wirusów;
+- Sposoby zapobiegania ściąganiu wirusów na komputery.
+
+</details>
+
+---
+
+### 59. Czym są operatory boolowskie?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Funkcje operatorów;
+- Zastosowanie w procesie wyszukiwania informacji w sieci.
+
+</details>
+
+---
+
+### 60. Czym jest licencja MIT?
+
+---
+
+### 61. Czym jest PHP?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 62. Po co są potrzebne licencje na oprogramowanie i twory cyfrowe?
+
+---
+
+### 63. Jakie mamy licencje Creative Commons?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Czy Uniwersytet Jagielloński wykorzystuje licencje CC, jeżeli tak – gdzie?
+
+</details>
+
+---
+
+### 64. Czym jest wzorzec projektowy oprogramowania?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Co wchodzi w jego skład?
+- Do czego służy?
+
+</details>
+
+---
+
+### 65. Czym jest Open Source Initiative?
+
+---
+
+### 66. Czym jest spoofing?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- W jaki sposób przebiega atak?
+
+</details>
+
+---
+
+### 67. Czym jest licencja GNU (GPLv3)?
+
+---
+
+### 68. Jak możemy tworzyć kwerendy wyszukiwawcze w celu przetwarzania informacji w Internecie?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Sposoby budowania kwerend wyszukiwawczych.
+
+</details>
+
+---
+
+### 69. Czym jest CC Rights Expression Language?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Gdzie jest stosowany?
+
+</details>
+
+---
+
+### 70. Czym jest Objective-C?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 71. Jakie są podobieństwa między IPv4 a IPv6?
+
+---
+
+### 72. Czym jest system rozproszony?
+
+---
+
+### 73. Czym jest system klient-serwer?
+
+---
+
+### 74. Jakie są różnice pomiędzy systemem peer-to-peer a systemem klient-serwer?
+
+---
+
+### 75. Czym jest Julia?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 76. Czym jest SSH?
+
+---
+
+### 77. Czym jest licencja Berkeley Software Distribution (BSD)?
+
+---
+
+### 78. Czym jest licencja Apache 2.0?
+
+---
+
+### 79. Czym jest IMAP?
+
+---
+
+### 80. Jakie zagrożenia w sieci może spotkać użytkownik Internetu?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Zagrożenia w sieci niebezpieczne dla małoletnich;
+- Zagrożenia w sieci niebezpieczne dla seniorów.
+
+</details>
+
+---
+
+### 81. Czym jest packet sniffing?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie;
+- Przebieg ataku;
+- Cel ataku.
+
+</details>
+
+---
+
+### 82. Czym jest R?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 83. Czym jest SSL?
+
+---
+
+### 84. Jakie były pierwsze kryptowaluty?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Swoją odpowiedź zawęź do krótkiej definicji i podaj przykład kryptowaluty powstałej w latach 1995–2010.
+
+</details>
+
+---
+
+### 85. Kim byli Bob Kahn i Vint Cerf?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Biografia obu twórców.
+
+</details>
+
+---
+
+### 86. Czym jest licencja CC – Uznanie Autorstwa – Na tych samych warunkach?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 87. Czym jest protokół DNS?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 88. Czym jest CSS?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 89. Jakie są różnice pomiędzy SSH a SSL?
+
+---
+
+### 90. Czym jest Swift?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 91. Czym jest zapytanie rekurencyjne?
+
+---
+
+### 92. Czym jest XHTML?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 93. Czym jest .NET?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 94. Czym jest AJAX?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 95. Czym jest Go?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Twórca, rok;
+- Cechy charakterystyczne;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 96. Czym jest spam?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Po co w ogóle wysyła się spam;
+- Zagrożenia związane z otrzymywaniem spamu przez użytkowników;
+- Sposoby unikania spamu.
+
+</details>
+
+---
+
+### 97. Czym jest DHTML?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 98. Czym jest jQuery?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Rok powstania;
+- Zastosowanie.
+
+</details>
+
+---
+
+### 99. Jakie są podobieństwa pomiędzy SSH a SSL?
+
+---
+
+### 100. Czym jest adres MAC?
+
+<details>
+<summary><b>Na co zwrócić uwagę?</b></summary>
+
+- Do czego służy?
+
+</details>
+
