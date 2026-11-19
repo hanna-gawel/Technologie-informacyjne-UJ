@@ -1,7 +1,7 @@
 <div align="center">
   <img height="60" src="https://promocja.uj.edu.pl/documents/10172/246cdda0-8463-4c71-90ec-e2dcdb66c304">
   <h1>Pytania zaliczeniowe - Technologie internetowe - wprowadzenie</h1>
-  <h2>2025/26</h2>
+  <h2>2026/27</h2>
   <h2>Uniwersytet Jagielloński w Krakowie</h2>
 ---
 
