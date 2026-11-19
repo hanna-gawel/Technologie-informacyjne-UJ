@@ -16,7 +16,7 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 | Pytania każdego roku są aktualizowane! 😃  będę _naprawdę_ wdzięczna za feedback w UJ Ankiecie po zakończeniu kursu, aby poznać Państwa opinie na temat przedmiotu. Z Państwa pomocą będę w stanie uczynić ten kurs jeszcze ciekawszym dla Was! 💪🏼 Dziękuję i zapraszam do nauki!   |
 |---|
 
-### 1. Ile obecnie ma lat Internet (licząc od daty początkowej do roku 2023)?
+### 1. Ile obecnie ma lat Internet (licząc od daty początkowej do roku 2026)?
 
 <details>
 <summary><b>Na co zwrócić uwagę?</b></summary>
@@ -737,7 +737,7 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 
 ---
 
-### 75. Czym jest Julia?
+### 75. Czym jest język R?
 
 <details>
 <summary><b>Na co zwrócić uwagę?</b></summary>
@@ -792,12 +792,11 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 
 ---
 
-### 82. Czym jest R?
+### 82. Czym jest Data and Model Poisoning (AI)?
 
 <details>
 <summary><b>Na co zwrócić uwagę?</b></summary>
 
-- Twórca, rok;
 - Cechy charakterystyczne;
 - Zastosowanie.
 
@@ -871,12 +870,12 @@ W razie pytań, proszę o kontakt, najlepiej w godzinach mojego dyżuru 😊: <b
 
 ---
 
-### 90. Czym jest Swift?
+### 90. Czym jest Sandbox Breakout / Evaluation Escape (ucieczka ze środowiska testowego/ewaluacyjnego) [Anthropic vs. New York Times]?
 
 <details>
 <summary><b>Na co zwrócić uwagę?</b></summary>
 
-- Twórca, rok;
+- Rok;
 - Cechy charakterystyczne;
 - Zastosowanie.
 
